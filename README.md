@@ -21,7 +21,11 @@ python3 challenges/dice_roll.py
 
 If you see 'Hello World', you are ready to roll!
 
-
+### Project Order:
+1) Dice Roll
+2) Guess the Number
+3) Mad Libs
+4) Blackjack
 
 ****
 
