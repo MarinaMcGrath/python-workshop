@@ -37,4 +37,6 @@ If you see 'Hello World', you are ready to roll!
 
 [Beginner Python exercises](http://www.practicepython.org/)
 
-[10 mini programming projects](https://codeboom.wordpress.com/2012/07/30/10-mini-programming-projects/)
+[10 Mini Programming Projects](https://codeboom.wordpress.com/2012/07/30/10-mini-programming-projects/)
+
+[Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
